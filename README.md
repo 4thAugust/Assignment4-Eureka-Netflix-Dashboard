@@ -10,5 +10,6 @@
 # :open_file_folder: Running
 - Dowload zip
 - Import ทั้งหมดลง Eclipse 
-- Build and Run App : service-registration-and-discovery-service
+- Build and Run App : service-discovery-server
 - Build and Run App : service-discovery-client1-5 
+- Open index.html
