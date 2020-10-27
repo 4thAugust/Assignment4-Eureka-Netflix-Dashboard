@@ -1,4 +1,4 @@
-# :chart_with_upwards_trend: Eureka-Dashboard
+# :chart_with_upwards_trend: Monitoring dashboard with Netflix Eureka (by August Team)
 
 # :paperclip: Services
 
